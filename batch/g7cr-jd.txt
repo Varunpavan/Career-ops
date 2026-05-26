@@ -1,0 +1,104 @@
+Resources
+Blog
+News & Events
+Career
+Contact
+Home  Services  Solutions  Products  Case Studies  Programs  AI Playground
+Career
+
+Join our team, where we work together to achieve extraordinary outcomes!
+
+Home  Career
+MERN Stack Developer (Fresher / Entry Level)
+Industry: IT/Cloud Services
+Location: Bangalore, Karnataka
+Job Title: MERN Stack Developer (Fresher / Entry Level)
+About Us
+
+G7 CR Technologies India Pvt Ltd is a leading IT and Cloud services company specializing in software development, cloud transformation, product engineering, and AI-driven solutions. We empower businesses to achieve digital excellence and are rapidly expanding our team. At G7 CR, we value innovation, ownership, and collaboration offering an environment where talent thrives and creates real impact.
+
+Role: Software Engineer Trainee
+Position: MERN Stack Developer
+Date of Joining: Immediate
+Employment Type: Permanent
+Experience Required: Fresher / Entry Level
+About the Role
+
+We are looking for a highly motivated and enthusiastic MERN Stack Developer who is passionate about building modern web applications.
+
+The ideal candidate should have a solid understanding of web fundamentals, a keen interest in learning new technologies, and the ability to work independently as well as in a team.
+
+This is a great opportunity for freshers who want to kickstart their career in full-stack development using MongoDB, Express.js, React.js, and Node.js — and grow into a complete product developer.
+
+Key Responsibilities
+Design, Develop, and maintenance of full-stack web applications using the MERN stack (MongoDB, Express, React, Node.js).
+Write clean, efficient, and well-structured code following standard development
+Learn and apply concepts of RESTful APIs, state management, and asynchronous programming.
+Collaborate with team members to understand requirements, propose solutions, and deliver results within timelines.
+Participate in code reviews and continuously improve code
+Troubleshoot issues, debug applications, and contribute to performance
+Stay updated with emerging web technologies and best
+Take ownership of assigned modules or features with minimal
+Demonstrate curiosity and eagerness to learn new tools, frameworks, and concepts
+Required Skills & Knowledge
+
+Technical Skills (Basic to Intermediate Knowledge Expected):
+
+Good understanding of JavaScript (ES6+), HTML5, and CSS3.
+Basic familiarity with js — components, props, state, hooks.
+Understanding of js and Express.js for backend development.
+Knowledge of MongoDB — schema design, CRUD operations,
+Understanding of REST APIs and JSON-based
+Basic knowledge of Git for version
+Familiarity with package managers (npm/yarn) and Postman/Thunder Client for API
+Additional Advantage (Good to Have):
+Exposure to TypeScript, NestJs, js, or Redux.
+Awareness of deployment processes (e.g., Vercel, Render, or AWS/Azure basics).
+Basic understanding of UI/UX design principles. Soft Skills & Learning Mindset
+Strong communication skills – able to explain ideas clearly and collaborate
+Demonstrated self-learning capability – ability to research and learn new tools or frameworks independently.
+Problem-solving mindset with an analytical and logical
+Highly self-motivated with a passion for technology and
+Positive attitude, team player, and willingness to take ownership of assigned
+Open to feedback and eager to continuously
+Educational Qualification
+Bachelor’s degree in computer science, Information Technology, or any equivalent
+Candidates with personal or academic projects in MERN stack will be given
+Interested? Apply now!
+Click here 
+About
+About Us
+Life at G7 CR
+Achievements
+Our Team
+News & Events
+Data Protection Policy
+Privacy Policy
+Products
+Green Matters
+WATLABS
+G7CR plus
+OCTOPODES
+Machine 4 Learning
+OMP
+Marketplace Zone
+G7 CR Stalker (NOC)
+Our Services
+Azure To Azure Migration Services
+On-prem to Azure Migration Services
+Development Services
+Cloud Implementation Services
+AWS GCP to Azure Migration Services
+App and DB Modernization
+Reporting Analytics and AI ML
+Migrate to Fabric
+Get in touch with us
+
+Address: 10/4 3rd Floor Mitra Towers Kasturaba Road, Ashok Nagar, Bengaluru, Karnataka 560001, India.
+
+Email: contact.us@noventiqai.com
+Phone: (+91) 80 4641 4200
+
+Stay Connected
+
+Copyright © 2026 Noventiq Global AI Solutions. All Rights Reserved.

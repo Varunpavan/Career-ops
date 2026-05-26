@@ -1,0 +1,734 @@
+# Pipeline
+
+## Pendientes
+
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4799672101 | Parloa | Forward Deployed Engineer, VoIP
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4780830101 | Parloa | Partner Solution Engineer 
+- [ ] https://job-boards.eu.greenhouse.io/parloa/jobs/4856335101 | Parloa | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4502508008 | Anthropic | Application Security Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5055488008 | Anthropic | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5116274008 | Anthropic | Applied AI Engineer 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5146028008 | Anthropic | Applied AI Engineer, Beneficial Deployments
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5057647008 | Anthropic | Applied AI Engineer, Enterprise Tech
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5111942008 | Anthropic | Applied AI Engineer, Life Sciences (Beneficial Deployments)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191638008 | Anthropic | Cluster Deployment Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5159642008 | Anthropic | Data Center Engineer, Resource Efficiency – Compute Supply 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5097186008 | Anthropic | Design Engineer, AI Capability Development (Education Labs)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5223916008 | Anthropic | Design Engineer, Web
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4532887008 | Anthropic | [Expression of Interest] Research Scientist / Engineer, Honesty
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5194827008 | Anthropic | Field Services Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4985877008 | Anthropic | Forward Deployed Engineer, Applied AI
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5186067008 | Anthropic | Full-Stack Software Engineer, Reinforcement Learning
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5030680008 | Anthropic | Infrastructure Engineer, Sandboxing
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4802076008 | Anthropic | IT Support Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4887952008 | Anthropic | IT Systems Engineer, Corporate Systems & Infrastructure
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5161882008 | Anthropic | IT Systems Engineer, Enterprise SaaS
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5098025008 | Anthropic | Model Quality Software Engineer, Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5177143008 | Anthropic | Network Engineer, Capacity and Efficiency
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123011008 | Anthropic | Offensive Security Research Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4020350008 | Anthropic | Performance Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4926227008 | Anthropic | Performance Engineer, GPU
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5219486008 | Anthropic | [Pipeline] Software Engineer, Safeguards Labs
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4949108008 | Anthropic | Privacy Research Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5107121008 | Anthropic | Prompt Engineer, Agent Prompts & Evals
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5125083008 | Anthropic | Research Engineer, AI Observability
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5025624008 | Anthropic | Research Engineer, Cybersecurity Reinforcement Learning
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4669581008 | Anthropic | Research Engineer, Discovery
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5071132008 | Anthropic | Research Engineer, Economic Research
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951064008 | Anthropic | Research Engineer, Environment Scaling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5067100008 | Anthropic | Research Engineer,  Frontier Red Team (Autonomy)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4980430008 | Anthropic | Research Engineer, Interpretability
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4017331008 | Anthropic | Research Engineer, Knowledge Team
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5198255008 | Anthropic | Research Engineer, Model Evaluations
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5160330008 | Anthropic | Research Engineer, Performance RL
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5119713008 | Anthropic | Research Engineer, Pretraining
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4938432008 | Anthropic | Research Engineer, Pretraining Scaling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4938436008 | Anthropic | Research Engineer, Pretraining Scaling - London
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4613592008 | Anthropic | Research Engineer, Production Model Post-Training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074815008 | Anthropic | Research Engineer/Research Scientist, Audio
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5135168008 | Anthropic | Research Engineer / Research Scientist, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4616971008 | Anthropic | Research Engineer/Research Scientist, Pre-training
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951814008 | Anthropic |  Research Engineer / Research Scientist, Tokens
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5024831008 | Anthropic | Research Engineer, Reward Models Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5197337008 | Anthropic | Research Engineer, RL Infrastructure (Knowledge Work)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191785008 | Anthropic | Research Engineer, Safeguards Labs
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5126127008 | Anthropic | Research Engineer, Science of Scaling
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4631822008 | Anthropic | Research Engineer / Scientist, Alignment Science
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4610158008 | Anthropic | Research Engineer / Scientist, Alignment Science - London
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076477008 | Anthropic | Research Engineer / Scientist, Frontier Red Team (Cyber)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5076606008 | Anthropic | Research Engineer / Scientist, Societal Impacts
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5061517008 | Anthropic | Research Engineer, Universes
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4946308008 | Anthropic | Research Engineer, Virtual Collaborator (Cowork)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4982193008 | Anthropic | Security Engineer, Detection & Response
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5105509008 | Anthropic | Security Engineer, Offensive Security
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5195705008 | Anthropic | Security Engineer - Threat Intel
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5153564008 | Anthropic | Security Labs Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4595463008 | Anthropic | Security Software Engineer, Detection & Response Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5209776008 | Anthropic | Security Software Engineer, Platform Integration
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5123039008 | Anthropic | Software Engineer, Account Abuse
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5108982008 | Anthropic | Software Engineer, Compute Efficiency
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5063007008 | Anthropic | Software Engineer, Cybersecurity Products
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4980420008 | Anthropic | Software Engineer, Desktop
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5109273008 | Anthropic | Software Engineer, Human Data Interface
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191226008 | Anthropic | Software Engineer, Research Data Platform
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4951844008 | Anthropic | Software Engineer, Safeguards
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5191433008 | Anthropic | Software Engineer, Safeguards Foundations (Internal Tooling)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074908008 | Anthropic | Software Engineer, Safeguards Infrastructure 
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5083039008 | Anthropic | Software Engineer, Sandboxing
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5025591008 | Anthropic | Software Engineer, Sandboxing (Systems)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5218395008 | Anthropic | Software Engineer, Systems - Claude Code
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5152348008 | Anthropic | Sr. Software Engineer, Inference
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5074937008 | Anthropic | Threat Collections Engineer
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4720576008 | Anthropic | TPU Kernel Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7824142 | Intercom | AI Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7556413 | Intercom | Forward Deployed Software Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7918638 | Intercom | IT Systems Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6810055 | Intercom | Product Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7573187 | Intercom | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7624926 | Intercom | Solutions Engineer - LATAM (Portuguese Speaking)
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/6436276 | Intercom | Technical Support Engineer 
+- [ ] https://job-boards.greenhouse.io/intercom/jobs/7915211 | Intercom | Technical Support Engineer (Saturday - Wednesday)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8533547002 | Airtable | Product Security Engineer
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8442397002 | Airtable | Software Engineer, Compute (8+ YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8124953002 | Airtable | Software Engineer, Data
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8400373002 | Airtable | Software Engineer, Infrastructure (4-8 YOE)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8397618002 | Airtable | Software Engineer, Product Backend (8+ YOE)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5709080004 | Vercel | Design Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5989803004 | Vercel | Developer Success Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5530586004 | Vercel | Developer Success Engineer 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5778418004 | Vercel | Forward-Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5872425004 | Vercel | Forward Deployed Engineer, v0
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5752684004 | Vercel | Forward-Deployed Engineer 
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5993726004 | Vercel | IT Ops Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5980197004 | Vercel | Media Engineer, Social
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5719796004 | Vercel | Mobile Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5732855004 | Vercel | Site Engineer
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5704320004 | Vercel | Software Engineer, Agent
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798406004 | Vercel | Software Engineer, AI Gateway
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5474915004 | Vercel | Software Engineer, AI SDK
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5430088004 | Vercel | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5179639004 | Vercel | Software Engineer, CDN
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5473266004 | Vercel | Software Engineer, CDN Security
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5551619004 | Vercel | Software Engineer, Compute
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5808568004 | Vercel | Software Engineer, Dashboard
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5633880004 | Vercel | Software Engineer, Deployment Infrastructure
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5613601004 | Vercel | Software Engineer, Growth
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5661583004 | Vercel | Software Engineer, Lua
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5993753004 | Vercel | Software Engineer, Next.js
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5798416004 | Vercel | Software Engineer, Workflows
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5969145004 | Arize AI | AI Application Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5989512004 | Arize AI | AI Application Engineer, APJ
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993755004 | Arize AI | AI Solutions Engineer, East
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5781408004 | Arize AI | AI Solutions Engineer, EMEA
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5797408004 | Arize AI | AI Solutions Engineer, West
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5704428004 | Arize AI | Developer Relations Engineer
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5980312004 | Arize AI | DevSecOps Engineer (TypeScript & Agentic AI)
+- [ ] https://job-boards.greenhouse.io/arizeai/jobs/5993317004 | Arize AI | Forward Deployed Engineer, APJ
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5173070008 | RunPod | Forward Deployed Engineer APAC
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/4785681008 | RunPod | Software Engineer (Full-Stack) 
+- [ ] https://job-boards.eu.greenhouse.io/polyai/jobs/4855037101 | PolyAI | Forward Deployed AI Engineer (Must be based in Toronto, Canada)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4529774005 | Glean | Application Security Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4547218005 | Glean | Cloud Infrastructure Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694835005 | Glean | Cloud Security Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651990005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4012824005 | Glean | Quality Assurance Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4616929005 | Glean | Software Engineer, Agentic Runtime 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4695206005 | Glean | Software Engineer, AI Infrastructure
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4605446005 | Glean | Software Engineer, AI & Security
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4696752005 | Glean | Software Engineer, APIs & Context Platform
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006731005 | Glean | Software Engineer, Backend
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4675862005 | Glean | Software Engineer, Billing & Revenue Platform
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4638008005 | Glean | Software Engineer, Context Platform
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4637208005 | Glean | Software Engineer, Data Foundations
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4614706005 | Glean | Software Engineer, Developer Productivity 
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006733005 | Glean | Software Engineer, Frontend
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4006734005 | Glean | Software Engineer, Fullstack
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4659229005 | Glean | Software Engineer, Insights
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4636739005 | Glean | Software Engineer, Platform
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4436194005 | Glean | Software Engineer, Platform Security
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4428090005 | Glean | Software Engineer, Product Backend
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4372145005 | Glean | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4653909005 | Glean | Technical Support Engineer (EST shift hours)
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4666849005 | Glean | Technical Support Engineer (PST shift hours)
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4792165101 | Speechmatics | Forward Deployed Engineer
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4834548101 | Speechmatics | Software Engineer - FutureVoices
+- [ ] https://job-boards.eu.greenhouse.io/speechmatics/jobs/4823688101 | Speechmatics | Solutions Engineer
+- [x] #009 | https://jobs.ashbyhq.com/lindy/a5100dbe-d851-4544-bb4c-0428d77940eb | Lindy | Full Stack Software Engineer (Early Career) | 4.8/5 | PDF ✅
+- [ ] https://jobs.ashbyhq.com/lindy/04718014-2104-4725-9c80-079b732b7db4 | Lindy | Full Stack Software Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/275f43d0-b62d-401d-830c-7c1ac0e688aa | ElevenLabs | Enterprise Solutions Engineer - North America
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5881bc5d-765a-430e-9d28-7d598a0e1a03 | ElevenLabs | Full-Stack Growth Engineer 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/c7d59014-b918-4c15-ae33-79f5c9f2cf9f | ElevenLabs | Full-Stack Engineer (Back-End Leaning)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ada7cd2c-8b9f-4f19-a88b-7c2ca1be1fde | ElevenLabs | Full-Stack Engineer (Front-End Leaning)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6 | ElevenLabs | Forward Deployed Engineer - Software Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/6a530871-b6c6-4783-ac6b-69cc3b084192 | ElevenLabs | Full-Stack Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3d650946-5ac2-4729-9ae4-129c43fcd0b5 | ElevenLabs | Research Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/a3097257-a07a-4a7e-b9fe-b8555c1a0fa7 | ElevenLabs | Automations Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3b57cc5c-f019-4a0b-a5ff-e1046e4f1fa1 | ElevenLabs | Safety Engineer
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b081fafb-3659-4bf6-8e87-eb5ccc3ff234 | ElevenLabs | Enterprise Solutions Engineer - Spain
+- [ ] https://jobs.ashbyhq.com/elevenlabs/ce00fe7b-a93a-436b-bd5e-2eff87c48f23 | ElevenLabs | Enterprise Solutions Engineer - France
+- [ ] https://jobs.ashbyhq.com/elevenlabs/81f53be2-dd0e-433d-94bf-d506973be1ed | ElevenLabs | Enterprise Solutions Engineer - Mexico
+- [ ] https://jobs.ashbyhq.com/elevenlabs/3466ba20-f61f-4a51-a1ee-5a24a2217fa8 | ElevenLabs | Enterprise Solutions Engineer - Brazil 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/46bad7dc-c8d7-403d-8b10-a2d71c005384 | ElevenLabs | Enterprise Solutions Engineer - LATAM 
+- [ ] https://jobs.ashbyhq.com/elevenlabs/b95f7f0b-f22f-4fc4-9d9f-87f5485b0a1f | ElevenLabs | Enterprise Solutions Engineer - EU (German Speaking)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4509df6f-b839-44d6-b31f-d7f364cec949 | ElevenLabs | Enterprise Solutions Engineer - Europe
+- [ ] https://jobs.ashbyhq.com/elevenlabs/7664e3c4-2336-4d1a-90cf-91d1268de10d | ElevenLabs | Forward Deployed Engineer - Software Engineer - Spain
+- [ ] https://jobs.ashbyhq.com/elevenlabs/fb1fd9cc-bd6d-4895-be29-4bc37d0c31a0 | ElevenLabs | Solutions Engineer - India
+- [ ] https://jobs.ashbyhq.com/elevenlabs/f80d0420-b6e6-4110-940c-293f64b9761e | ElevenLabs | Compliance Engineer - North America
+- [ ] https://jobs.ashbyhq.com/elevenlabs/03cefd49-972f-45b2-b6c7-9a42d133af0c | ElevenLabs | Compliance Engineer - APAC
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5d01b08d-a300-4f29-93e4-039147d7ddd7 | ElevenLabs | Enterprise Solutions Engineer - Oceania
+- [ ] https://jobs.ashbyhq.com/elevenlabs/4389da7f-b5c9-4660-aaf2-d097f4caba07 | ElevenLabs | Audio Engineering (Freelance)
+- [ ] https://jobs.ashbyhq.com/elevenlabs/8a88f764-27f5-46d7-8ce0-0ba15401efb1 | ElevenLabs | Enterprise Solutions Engineer - Brazil
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1a9d687d-0030-4732-8160-f1da54844bba | ElevenLabs | Enterprise Solutions Engineer - ANZ
+- [ ] https://jobs.ashbyhq.com/elevenlabs/85b7489f-5b0c-4f21-9c1c-7b76ed904c44 | ElevenLabs | Enterprise Solutions Engineer - Singapore
+- [ ] https://jobs.ashbyhq.com/elevenlabs/f4cfa7cc-5973-473d-93c6-68115d9e887d | ElevenLabs | Compliance Engineer - EU
+- [ ] https://jobs.ashbyhq.com/elevenlabs/1285b935-1398-4116-8576-70a58896faa8 | ElevenLabs | Enterprise Solutions Engineer - Middle East
+- [ ] https://jobs.ashbyhq.com/decagon/9ffd6359-d0ff-4ab6-b210-0fb05d2c459c | Decagon | Field Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18 | Decagon | Software Engineer, Agents
+- [ ] https://jobs.ashbyhq.com/decagon/8c40fb7a-5f25-4112-a1df-f1c22b81042c | Decagon | Customer Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/decagon/6431a6f9-2ebe-4b68-beb6-200b42aeeca8 | Decagon | Strategic Solutions Engineer, East
+- [ ] https://jobs.ashbyhq.com/decagon/78745829-74ee-41cb-836c-480ca7bf9edc | Decagon | Strategic Solutions Engineer, West
+- [ ] https://jobs.ashbyhq.com/decagon/95dadea4-8bd2-421a-bf3f-51c04e102ee2 | Decagon | Enterprise Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/060b5fd4-9962-491f-8116-4faa778500d7 | Decagon | Enterprise Solutions Engineer - LATAM
+- [ ] https://jobs.ashbyhq.com/decagon/3998068a-4ce9-4a70-b9c0-7e89ef531331 | Decagon | Security Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/7c1282fb-0ab5-47d1-9d06-6804842317f2 | Decagon | Research Engineer, Agents
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5995130004 | Boomi | Cloud Security Engineer
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5988509004 | Boomi | Full Stack Developer, Web Production (Vancouver) 
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5776286004 | Boomi | ServiceNow CRM Developer/Administrator
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5789831004 | Boomi | Software Quality Engineer - AI
+- [ ] https://boomi.com/boomi-jobs/?gh_jid=5823463004 | Boomi | Solutions Engineer, API Management
+- [ ] https://jobs.ashbyhq.com/bland/804fbd27-027e-4de5-8a6f-77241a65e599 | Bland AI | Customer Engineer
+- [ ] https://jobs.ashbyhq.com/bland/823904dd-f958-45c8-8e9a-4d9755cd03f0 | Bland AI | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/deepgram/8a010608-6239-42ca-81de-c01139153eb2 | Deepgram | Partner Success Engineer
+- [ ] https://jobs.ashbyhq.com/deepgram/0796cc37-96a7-4158-8a00-155962da275a | Deepgram | Backend Software Engineer - Active Learning Team
+- [ ] https://jobs.ashbyhq.com/deepgram/68372d7d-b7a9-439e-a0a7-76690576aba4 | Deepgram | Software Engineer - Deepgram for Restaurants
+- [ ] https://jobs.ashbyhq.com/deepgram/c69aab8a-e1d5-44ac-9113-12671a364015 | Deepgram | Forward Deployed Engineer, Deepgram for Restaurants
+- [ ] https://jobs.ashbyhq.com/deepgram/7c7064bb-2bf0-4f64-81cc-14afe79a15c1 | Deepgram | Backend Software Engineer - Engine Team (Voice Agent)
+- [ ] https://jobs.ashbyhq.com/deepgram/4a873ede-8555-42ae-9ddc-ac89afdd7278 | Deepgram | Software Engineer, Voice Agents / AI - Deepgram for Restaurants
+- [ ] https://jobs.ashbyhq.com/deepgram/6ab5816d-bbe1-4383-bb53-675e9f641528 | Deepgram | Solutions Engineer, Enterprise
+- [ ] https://jobs.ashbyhq.com/deepgram/b4c48280-9b6c-4545-be49-b33e0b6076cd | Deepgram | Network Engineer, Real-Time Infrastructure
+- [ ] https://jobs.ashbyhq.com/deepgram/378e83b4-28c0-4b4e-8cf0-9355712bd06d | Deepgram | Billing & Analytics Software Engineer
+- [ ] https://jobs.ashbyhq.com/pinecone/4433b308-1ff4-4b5f-9184-810e5d9844f6 | Pinecone | Developer Advocate 
+- [ ] https://jobs.ashbyhq.com/zapier/3b141014-1d0f-426e-94e5-997b2cfd6ae8 | Zapier | Sr. Fullstack Engineer, Identity Platform
+- [ ] https://jobs.ashbyhq.com/zapier/6948a0e6-a580-4e9d-b109-20652d9a1507 | Zapier | Software Engineer — Release Engineering
+- [ ] https://jobs.ashbyhq.com/zapier/423d1bb7-1c08-458e-8a17-29a63cf23d92 | Zapier | Sr. Engineer, Backend - Enterprise
+- [ ] https://jobs.ashbyhq.com/zapier/38434b88-086c-424b-8d18-8d006e0b71b8 | Zapier | Sr. Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/safariai/jobs/5033427007 | Safari AI | Opportunity Hire, ex-founder/founding engineer
+- [ ] https://careers.hootsuite.com/job/?gh_jid=7476830 | Hootsuite | Intermediate Software Developer,  Frontend/Full Stack
+- [ ] https://careers.hootsuite.com/job/?gh_jid=7851293 | Hootsuite | Junior Software Developer, Backend
+- [ ] https://jobs.ashbyhq.com/langchain/74e5f9f4-e44a-4594-ba26-abdf71bf287d | LangChain | Python OSS Engineer 
+- [ ] https://jobs.ashbyhq.com/langchain/05efa205-8560-43fd-bfcc-3f7697561cfb | LangChain | JavaScript Engineer (Open Source Team) 
+- [ ] https://jobs.ashbyhq.com/langchain/9037a071-eef2-4083-83f3-d6a5b531aa1d | LangChain | Education Engineer
+- [ ] https://jobs.ashbyhq.com/langchain/ddf92275-1cc3-49c0-9f25-e8ded43b07f6 | LangChain | FullStack Engineer,  AI Observability & Evals Platform (LangSmith)
+- [ ] https://jobs.ashbyhq.com/langchain/c75915ba-a32b-4e17-873d-19b47564170d | LangChain | Fullstack Software Engineer, Applied AI
+- [ ] https://jobs.ashbyhq.com/langchain/e725293d-c27b-4a79-959d-19f5618f2f8e | LangChain | Developer Productivity
+- [ ] https://jobs.ashbyhq.com/langchain/671f9372-8646-4f6a-a473-61bfa7cafa4b | LangChain | Deployed Engineer (Amsterdam)
+- [ ] https://jobs.ashbyhq.com/langchain/650a8598-2b20-40b8-a4d7-4a9196fe3609 | LangChain | Deployed Engineer (Sydney)
+- [ ] https://jobs.ashbyhq.com/langchain/ba447a0b-2f52-484e-b3f6-b15c6445bdf9 | LangChain | Deployed Engineer (South EMEA)
+- [ ] https://jobs.ashbyhq.com/langchain/5f5f8239-603c-47ca-a1ee-5a7ed34b502d | LangChain | Deployed Engineer (UK)
+- [ ] https://jobs.ashbyhq.com/langchain/e773649c-4ea7-47c2-9987-74d525474e82 | LangChain | Deployed Engineer (Bay Area)
+- [ ] https://jobs.ashbyhq.com/langchain/25d40647-c821-46ff-bf25-bacf21fa38b5 | LangChain | Deployed Engineer (NYC)
+- [ ] https://jobs.ashbyhq.com/langchain/937e131f-1055-4f1f-bd8a-f036e4ba0666 | LangChain | Deployed Engineer (Austin)
+- [ ] https://jobs.ashbyhq.com/langchain/58edb2a9-a1b7-4b10-86a4-4bf6957cc6f4 | LangChain | Deployed Engineer (Toronto)
+- [ ] https://jobs.ashbyhq.com/langchain/dea6e10a-5cc8-4956-85b4-1ca88b8c0a95 | LangChain | Deployed Engineer (Las Vegas)
+- [ ] https://jobs.ashbyhq.com/langchain/8b533cc4-6654-44b4-b3fc-004def2a9927 | LangChain | Deployed Engineer (Dallas)
+- [ ] https://jobs.ashbyhq.com/langchain/3f793a73-9b0d-456b-9a7c-16441e3e6e69 | LangChain | Deployed Engineer (Denver)
+- [ ] https://jobs.ashbyhq.com/langchain/31ff2b5b-d5c5-443e-bf11-ef02481df579 | LangChain | Deployed Engineer (Germany)
+- [ ] https://jobs.ashbyhq.com/langchain/31483b31-68c5-4603-8a84-0051634100c0 | LangChain | Deployed Engineer (Stockholm)
+- [ ] https://jobs.ashbyhq.com/langchain/34083fce-1e80-4595-9ce9-76387b735c70 | LangChain | Deployed Engineer (Boston)
+- [ ] https://jobs.ashbyhq.com/langchain/3e31c750-67f2-4d3d-ac29-48a2b57cf4bd | LangChain | Deployed Engineer (Atlanta)
+- [ ] https://jobs.ashbyhq.com/langchain/38947013-3d0c-4257-aa58-ab8fe247ea3e | LangChain | Deployed Engineer (Chicago)
+- [ ] https://jobs.ashbyhq.com/langchain/86d0df4d-e000-403d-aca8-ee6896aa5420 | LangChain | Deployed Engineer (San Diego)
+- [ ] https://jobs.ashbyhq.com/langchain/2d920c9c-abf2-4c46-a01b-03e61a03c8e6 | LangChain | Deployed Engineer (Los Angeles)
+- [ ] https://jobs.ashbyhq.com/langchain/d7454c6d-7025-4e46-befc-e23bedd8f452 | LangChain | Deployed Engineer (Charlotte)
+- [ ] https://jobs.ashbyhq.com/langchain/733417d6-7b74-4260-95d9-3cabf85ce0b8 | LangChain | Deployed Engineer (Raleigh)
+- [ ] https://jobs.ashbyhq.com/langchain/2a1f67e3-7509-4c92-9ec8-2e645d00c3eb | LangChain | Deployed Engineer (Phoenix)
+- [ ] https://jobs.ashbyhq.com/langchain/91bb582c-fe9a-4651-9e9f-cdb452ec6532 | LangChain | Deployed Engineer (Salt Lake City)
+- [ ] https://jobs.ashbyhq.com/langchain/b8dead31-212a-4b92-82a7-c42df16ae877 | LangChain | Customer Engineer (West Coast)
+- [ ] https://jobs.ashbyhq.com/langchain/c02afa2f-5544-411d-a4e2-8bdc199b0c53 | LangChain | Deployed Engineer (Singapore)
+- [ ] https://jobs.ashbyhq.com/langchain/60d3bd4f-e80f-45fb-9801-725d8b681d54 | LangChain | Deployed Engineer (Seattle)
+- [ ] https://jobs.ashbyhq.com/langchain/068b2e23-af01-42c7-9bce-d86976ea4d6e | LangChain | Software Engineer, SmithDB
+- [ ] https://jobs.ashbyhq.com/klue/98227b52-ff84-440e-a14c-5ad3888f1d10 | Klue | Software Engineer II, AI
+- [ ] https://jobs.ashbyhq.com/klue/ed50e681-1363-4141-ae60-bca17eba5f04 | Klue | Software Engineer I, AI
+- [ ] https://jobs.ashbyhq.com/glacis-ai/feea2cb6-60db-4afa-8358-ba17d05d1cd5 | Glacis AI | Founding Software Engineer - Agentic AI (Remote)
+- [ ] https://jobs.ashbyhq.com/glacis-ai/796efc69-0c03-45d9-9f54-f3de7bbccde9 | Glacis AI | Founding Software Engineer - Agentic AI (On-site)
+- [ ] https://jobs.ashbyhq.com/vapi/a69077ea-c968-42ae-bb74-bd782c790211 | Vapi | Agent Engineer
+- [ ] https://jobs.ashbyhq.com/vapi/7adb10b2-1234-4e4c-b132-f990a91de048 | Vapi | Agent Engineer - NY
+- [ ] https://jobs.ashbyhq.com/AlephAlpha/1df45c33-d9c1-4da0-81b7-2e6b5640e4cb | Aleph Alpha | IT Support Engineer (f/m/d)
+- [ ] https://jobs.ashbyhq.com/n8n/49e569f0-503e-4e42-a1ba-7e63684e90d3 | n8n | Sr Product Security Engineer | Remote | Europe
+- [ ] https://jobs.ashbyhq.com/n8n/640d55b3-3603-42f4-a05b-90962768fd16 | n8n | Sr Cloud Engineer | NodeJS + TS/JS | Europe remote
+- [ ] https://jobs.ashbyhq.com/n8n/b36e40e4-19d8-4d7e-a9b2-bddc9a59a63e | n8n | Sr Cloud Engineer | Europe remote
+- [ ] https://helsing.ai/jobs/4334849101?gh_jid=4334849101 | Helsing | AI Research Engineer - AI Safety
+- [ ] https://helsing.ai/jobs/4334842101?gh_jid=4334842101 | Helsing | AI Research Engineer -  Computer Vision
+- [ ] https://helsing.ai/jobs/4766708101?gh_jid=4766708101 | Helsing | AI Research Engineer - Foundation Models
+- [ ] https://helsing.ai/jobs/4676357101?gh_jid=4676357101 | Helsing | AI Research Engineer - Reinforcement Learning
+- [ ] https://helsing.ai/jobs/4423924101?gh_jid=4423924101 | Helsing | AI Research Engineer - Robotics
+- [ ] https://helsing.ai/jobs/4372802101?gh_jid=4372802101 | Helsing | AI Research Engineer - Signal Processing
+- [ ] https://helsing.ai/jobs/4644588101?gh_jid=4644588101 | Helsing | Avionics Systems Engineer - Communication
+- [ ] https://helsing.ai/jobs/4644593101?gh_jid=4644593101 | Helsing | Avionics Systems Engineer - Safety Critical Systems
+- [ ] https://helsing.ai/jobs/4794929101?gh_jid=4794929101 | Helsing | Compliance Verification Engineer 
+- [ ] https://helsing.ai/jobs/4516967101?gh_jid=4516967101 | Helsing | Deployed AI Engineer
+- [ ] https://helsing.ai/jobs/4660594101?gh_jid=4660594101 | Helsing | Design Engineer - Electronics
+- [ ] https://helsing.ai/jobs/4706779101?gh_jid=4706779101 | Helsing | Electronics Engineer - Maritime
+- [ ] https://helsing.ai/jobs/4809235101?gh_jid=4809235101 | Helsing | Electronics Engineer - Robotics
+- [ ] https://helsing.ai/jobs/4682783101?gh_jid=4682783101 | Helsing | Flight Control Laws Engineer
+- [ ] https://helsing.ai/jobs/4743310101?gh_jid=4743310101 | Helsing | Flight Control Systems Engineer
+- [ ] https://helsing.ai/jobs/4643529101?gh_jid=4643529101 | Helsing | Flight Dynamics Modelling Engineer
+- [ ] https://helsing.ai/jobs/4856801101?gh_jid=4856801101 | Helsing | Hardware Engineer - Physical Products
+- [ ] https://helsing.ai/jobs/4863766101?gh_jid=4863766101 | Helsing | Hardware Test Engineer - Robotics
+- [ ] https://helsing.ai/jobs/4839834101?gh_jid=4839834101 | Helsing | Maritime Field Engineer
+- [ ] https://helsing.ai/jobs/4642812101?gh_jid=4642812101 | Helsing | Production Engineer - Mechatronic Systems
+- [ ] https://helsing.ai/jobs/4788891101?gh_jid=4788891101 | Helsing | Production Engineer - Software Integration
+- [ ] https://helsing.ai/jobs/4862592101?gh_jid=4862592101 | Helsing | Quality Conformity Engineer - Production
+- [ ] https://helsing.ai/jobs/4865734101?gh_jid=4865734101 | Helsing | Radio Engineer
+- [ ] https://helsing.ai/jobs/4839750101?gh_jid=4839750101 | Helsing | Requirements Engineer - Physical Products
+- [ ] https://helsing.ai/jobs/4774775101?gh_jid=4774775101 | Helsing | Security Engineer
+- [ ] https://helsing.ai/jobs/4737931101?gh_jid=4737931101 | Helsing | Software Engineer
+- [ ] https://helsing.ai/jobs/4741565101?gh_jid=4741565101 | Helsing | Software Engineer - Airborne Mission Systems
+- [ ] https://helsing.ai/jobs/4741571101?gh_jid=4741571101 | Helsing | Software Engineer - Autonomous Air Systems
+- [ ] https://helsing.ai/jobs/4741219101?gh_jid=4741219101 | Helsing | Software Engineer - Autonomous Air System V&V
+- [ ] https://helsing.ai/jobs/4125061101?gh_jid=4125061101 | Helsing | Software Engineer - Backend
+- [ ] https://helsing.ai/jobs/4126378101?gh_jid=4126378101 | Helsing | Software Engineer - Frontend
+- [ ] https://helsing.ai/jobs/4741224101?gh_jid=4741224101 | Helsing | Software Engineer - Frontend Autonomous Air System V&V
+- [ ] https://helsing.ai/jobs/4741242101?gh_jid=4741242101 | Helsing | Software Engineer - Ground to Air HMI
+- [ ] https://helsing.ai/jobs/4729613101?gh_jid=4729613101 | Helsing | Software Engineer - Infrastructure
+- [ ] https://helsing.ai/jobs/4862624101?gh_jid=4862624101 | Helsing | Supplier Quality Control Engineer
+- [ ] https://helsing.ai/jobs/4787205101?gh_jid=4787205101 | Helsing | Systems Engineer - Command and Control (Air)
+- [ ] https://helsing.ai/jobs/4865559101?gh_jid=4865559101 | Helsing | Systems Engineer - Electromagnetic Interference (EMI)
+- [ ] https://helsing.ai/jobs/4327973101?gh_jid=4327973101 | Helsing | Systems Engineer - Land
+- [ ] https://helsing.ai/jobs/4839745101?gh_jid=4839745101 | Helsing | Systems Engineer - Physical Products
+- [ ] https://helsing.ai/jobs/4813804101?gh_jid=4813804101 | Helsing | V&V Engineer (Aviation)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7699758003?gh_jid=7699758003 | Celonis | AI & Management Consulting Intern (Value Engineering - DACH Market)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7681593003?gh_jid=7681593003 | Celonis | Applied AI Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7711782003?gh_jid=7711782003 | Celonis | Applied Engineer (Solution Consultant) - Supply Chain
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7635542003?gh_jid=7635542003 | Celonis | Applied Value Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7635114003?gh_jid=7635114003 | Celonis | Applied Value Engineer | Healthcare & Lifesciences
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7635294003?gh_jid=7635294003 | Celonis | Applied Value Engineer (Healthcare & Life Sciences)
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7662738003?gh_jid=7662738003 | Celonis | Associate Applied AI Engineer (APAC) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7662718003?gh_jid=7662718003 | Celonis | Associate Applied AI Engineer (Japan) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7669112003?gh_jid=7669112003 | Celonis | Associate Applied AI Engineer (Madrid/Spain) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7627647003?gh_jid=7627647003 | Celonis | Associate Value Engineer (AI-Driven Data Science & Analytics) - Orbit Program
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7542245003?gh_jid=7542245003 | Celonis | Customer Support Engineer-Level 1
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7709318003?gh_jid=7709318003 | Celonis | Customer Value Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7731930003?gh_jid=7731930003 | Celonis | Intern Value Engineering Strategy & Operations
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7730729003?gh_jid=7730729003 | Celonis | IT Service Engineer
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7687700003?gh_jid=7687700003 | Celonis | Research Engineer - Process Mining Technology
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7690716003?gh_jid=7690716003 | Celonis | Vice President, Solution Engineering (Value Engineering) - DACH
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7681944003?gh_jid=7681944003 | Celonis | Vice President, Value Engineering - DACH
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7702268003?gh_jid=7702268003 | Celonis | Workday Integration & Automation Sr. Engineer
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7859228 | Contentful | Analytical Engineer f/m/d
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7929676 | Contentful |  Customer Support Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7655986 | Contentful | Customer Support Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7905720 | Contentful | Full Stack Engineer - Analytics (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7557597 | Contentful | Fullstack Software Engineer (f/m/d)
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7875509 | Contentful | Full Stack Software Engineer III
+- [ ] https://job-boards.greenhouse.io/contentful/jobs/7821660 | Contentful | Solution Engineer
+- [ ] https://getyourguide.careers/jobs/7768438?gh_jid=7768438 | GetYourGuide | Software Engineer,  Developer Enablement
+- [ ] https://n26.com/en-eu/careers/positions/7742395?gh_jid=7742395 | N26 | Backend Engineer - Acquire
+- [ ] https://n26.com/en-eu/careers/positions/7656921?gh_jid=7656921 | N26 | Backend Engineer - Customer Risk Lifecycle
+- [ ] https://careers.hellofresh.com/global/en/job/7722066?gh_jid=7722066 | HelloFresh | Automation Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7869765?gh_jid=7869765 | HelloFresh | Automation Engineer (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7408822?gh_jid=7408822 | HelloFresh | Backend Engineer, Consumer
+- [ ] https://careers.hellofresh.com/global/en/job/7653839?gh_jid=7653839 | HelloFresh | Backend Engineer, Growth Alliance(m/f/d)
+- [ ] https://careers.hellofresh.com/global/en/job/7807208?gh_jid=7807208 | HelloFresh | Cloud Security Engineer  
+- [ ] https://careers.hellofresh.com/global/en/job/7908407?gh_jid=7908407 | HelloFresh | [DACH MAG] Operational Excellence Engineer (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7741329?gh_jid=7741329 | HelloFresh | Google IT Support Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7635355?gh_jid=7635355 | HelloFresh | Growth Engineer (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7410214?gh_jid=7410214 | HelloFresh | [HelloConnect] Security Engineer (Detection & Response)
+- [ ] https://careers.hellofresh.com/global/en/job/7904260?gh_jid=7904260 | HelloFresh | Junior Cook / Kochen (All Genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7704335?gh_jid=7704335 | HelloFresh | Junior Delivery Operations Specialist (M/F/X)
+- [ ] https://careers.hellofresh.com/global/en/job/7904270?gh_jid=7904270 | HelloFresh | Junior Food Stylist (All Genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7807043?gh_jid=7807043 | HelloFresh |  Junior IT Financial Operations Analyst 
+- [ ] https://careers.hellofresh.com/global/en/job/7917230?gh_jid=7917230 | HelloFresh | Junior Maintenance Planner
+- [ ] https://careers.hellofresh.com/global/en/job/7707035?gh_jid=7707035 | HelloFresh | Junior Production Planner (all genders) 
+- [ ] https://careers.hellofresh.com/global/en/job/7769051?gh_jid=7769051 | HelloFresh | Junior Recipe Developer
+- [ ] https://careers.hellofresh.com/global/en/job/7777926?gh_jid=7777926 | HelloFresh | Junior Supply Chain Coordinator
+- [ ] https://careers.hellofresh.com/global/en/job/7752631?gh_jid=7752631 | HelloFresh | Junior Supply Chain Planner (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7818200?gh_jid=7818200 | HelloFresh | Multi Skilled Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7818196?gh_jid=7818196 | HelloFresh | Multi Skilled Maintenance Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7862406?gh_jid=7862406 | HelloFresh | React Native Developer, Growth
+- [ ] https://careers.hellofresh.com/global/en/job/7841913?gh_jid=7841913 | HelloFresh | Reliability Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7610275?gh_jid=7610275 | HelloFresh | Security Engineer (Detection & Response) 
+- [ ] https://traderepublic.com/en-de/about?jobId=6589276003&gh_jid=6589276003 | Trade Republic | Analytics Engineer  (Berlin)
+- [ ] https://traderepublic.com/en-de/about?jobId=7626425003&gh_jid=7626425003 | Trade Republic | Analytics Engineering (London) 
+- [ ] https://traderepublic.com/en-de/about?jobId=7623520003&gh_jid=7623520003 | Trade Republic | Analytics Engineering (Paris) 
+- [ ] https://traderepublic.com/en-de/about?jobId=6539149003&gh_jid=6539149003 | Trade Republic | Backend Engineer (Berlin)
+- [ ] https://traderepublic.com/en-de/about?jobId=7718242003&gh_jid=7718242003 | Trade Republic | Backend Engineer (Haskell)
+- [ ] https://traderepublic.com/en-de/about?jobId=6327292003&gh_jid=6327292003 | Trade Republic | Backend Engineer (London)
+- [ ] https://traderepublic.com/en-de/about?jobId=6539038003&gh_jid=6539038003 | Trade Republic | Backend Engineer (Paris)
+- [ ] https://traderepublic.com/en-de/about?jobId=7714721003&gh_jid=7714721003 | Trade Republic | Graduate Backend Engineering Programme - Paris 
+- [ ] https://sumup.com/careers/positions/7475989002?gh_jid=7475989002 | SumUp | Backend Engineer (Global Bank Tribe)
+- [ ] https://sumup.com/careers/positions/8497866002?gh_jid=8497866002 | SumUp | Backend engineer (Go)-  Payments Experience
+- [ ] https://sumup.com/careers/positions/8388972002?gh_jid=8388972002 | SumUp | Backend Engineer - Transfers 
+- [ ] https://sumup.com/careers/positions/8529492002?gh_jid=8529492002 | SumUp | Data Analytics Engineer
+- [ ] https://sumup.com/careers/positions/8458918002?gh_jid=8458918002 | SumUp | Hardware Engineer
+- [ ] https://sumup.com/careers/positions/8508068002?gh_jid=8508068002 | SumUp | Junior Credit Management Analyst 
+- [ ] https://sumup.com/careers/positions/8376130002?gh_jid=8376130002 | SumUp | Junior Early Growth Specialist
+- [ ] https://sumup.com/careers/positions/8520366002?gh_jid=8520366002 | SumUp | Junior Early Growth Specialist CR German
+- [ ] https://sumup.com/careers/positions/8520364002?gh_jid=8520364002 | SumUp | Junior Early Growth Specialist CR Italian
+- [ ] https://sumup.com/careers/positions/8416226002?gh_jid=8416226002 | SumUp | Junior Early lifecycle Specialist - English Dutch
+- [ ] https://sumup.com/careers/positions/8376277002?gh_jid=8376277002 | SumUp | Junior Early lifecycle Specialist - German
+- [ ] https://sumup.com/careers/positions/8546981002?gh_jid=8546981002 | SumUp | Procure to Pay Junior Accountant
+- [ ] https://sumup.com/careers/positions/8448678002?gh_jid=8448678002 | SumUp | Software Engineer
+- [ ] https://sumup.com/careers/positions/8545005002?gh_jid=8545005002 | SumUp | Software Engineer (Golang) - Online Payments
+- [ ] https://sumup.com/careers/positions/8468005002?gh_jid=8468005002 | SumUp | Software Engineer II
+- [ ] https://sumup.com/careers/positions/8551285002?gh_jid=8551285002 | SumUp | SumUp Accelerator – Software Engineer Intern
+- [ ] https://jobs.ashbyhq.com/cohere/b9c8c98e-b0fa-43b6-93b0-fa780d956066 | Cohere | Software Engineer, Security
+- [ ] https://jobs.ashbyhq.com/cohere/2d256112-b336-4539-8133-a0bf7f6698f0 | Cohere | Forward Deployed Engineer, Agentic Platform (UK/Europe)
+- [ ] https://jobs.ashbyhq.com/cohere/69a9ab2e-a7eb-4c4f-825a-5c25cf063900 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (UK/EU/ME)
+- [ ] https://jobs.ashbyhq.com/cohere/be48aafc-9610-4ebd-8414-a0722a3cd59a | Cohere | Forward Deployed Engineer, Infrastructure Specialist (North America)
+- [ ] https://jobs.ashbyhq.com/cohere/43e8ed06-4f3b-460e-aa8a-a0bde93f7bb5 | Cohere | IT Support Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/2786dc50-5662-461a-9946-a821ad42816f | Cohere | Software Engineer, Collect
+- [ ] https://jobs.ashbyhq.com/cohere/4dd749aa-a675-4430-98fb-6701c8e14ab6 | Cohere | Software Engineer, Internal Infrastructure (Europe & UK)
+- [ ] https://jobs.ashbyhq.com/cohere/02c92e66-c89d-4a62-8961-c260d651afe1 | Cohere | Software Engineer, Internal Infrastructure (North America)
+- [ ] https://jobs.ashbyhq.com/cohere/38f75a48-199c-4325-a7f8-2af6ed6a1b3b | Cohere | Forward Deployed Engineer, Infrastructure Specialist
+- [ ] https://jobs.ashbyhq.com/cohere/b0bcef37-1d20-414f-aade-c54942d63df9 | Cohere | Forward Deployed Engineer, Agentic Platform
+- [ ] https://jobs.ashbyhq.com/cohere/6745547c-cc72-466c-867c-a0539b04909b | Cohere | Forward Deployed Engineer, Prompt Specialist
+- [ ] https://jobs.ashbyhq.com/cohere/e912d84c-8399-422d-8a7d-918422a3e4b1 | Cohere | Audio Inference Engineer, Model Efficiency
+- [ ] https://jobs.ashbyhq.com/cohere/64fb905c-b3b4-4fcf-9e1c-a806c9c40068 | Cohere | Software Engineer, Search Applications
+- [ ] https://jobs.ashbyhq.com/cohere/1fa01a03-9253-4f62-8f10-0fe368b38cb9 | Cohere | Applied AI Engineer – Agentic Workflows
+- [ ] https://jobs.ashbyhq.com/cohere/f5f727bc-9eab-4fcc-9fdd-92a9ce47c37c | Cohere | Full-Stack Software Engineer, Inference
+- [ ] https://jobs.ashbyhq.com/cohere/9c18b199-cd1f-4ef3-9fab-ce05589348ae | Cohere | Applied AI Engineer - Agentic Workflows (Singapore)
+- [ ] https://jobs.ashbyhq.com/cohere/556467eb-3dc8-46e2-b015-277872210997 | Cohere | Forward Deployed Engineer, Sovereign AI
+- [ ] https://jobs.ashbyhq.com/cohere/031c2335-db85-4265-8a88-a54b911be36a | Cohere | Applied AI Engineer – Agentic Workflows (Korea)
+- [ ] https://jobs.ashbyhq.com/cohere/1a5925d0-41bd-4549-9b78-f427a2dda922 | Cohere | Research Engineer
+- [ ] https://jobs.ashbyhq.com/cohere/d277180e-6528-4745-99e8-328c17530412 | Cohere | Security Operations Engineer, EMEA
+- [ ] https://jobs.ashbyhq.com/cohere/8c035d3d-081d-4c8a-914a-72f4efaad254 | Cohere | Software Engineer Intern (Fall / Winter 2026)
+- [ ] https://jobs.ashbyhq.com/cohere/0ef0a9f8-33ac-4360-a833-f8ce8e108a31 | Cohere | Data Annotation Specialist, Engineering
+- [ ] https://jobs.ashbyhq.com/cohere/52a2b83b-7537-4e88-af7b-e4e9630a96e0 | Cohere | Forward Deployed Engineer, Infrastructure Specialist (Public Sector)
+- [ ] https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f | Cohere | Software Engineer, Data Infrastructure
+- [ ] https://coreweave.com/careers/job?4560350006&board=coreweave&gh_jid=4560350006 | Weights & Biases (CoreWeave) | Bare Metal Support Engineer
+- [ ] https://coreweave.com/careers/job?4674028006&board=coreweave&gh_jid=4674028006 | Weights & Biases (CoreWeave) | Command Center Systems Engineer
+- [ ] https://coreweave.com/careers/job?4670558006&board=coreweave&gh_jid=4670558006 | Weights & Biases (CoreWeave) | Construction Cost Engineer
+- [ ] https://coreweave.com/careers/job?4679602006&board=coreweave&gh_jid=4679602006 | Weights & Biases (CoreWeave) | Data Center Security Engineer
+- [ ] https://coreweave.com/careers/job?4627287006&board=coreweave&gh_jid=4627287006 | Weights & Biases (CoreWeave) | GPU Infrastructure Software Engineer
+- [ ] https://coreweave.com/careers/job?4617112006&board=coreweave&gh_jid=4617112006 | Weights & Biases (CoreWeave) | Hardware Engineer - Liquid Cooling
+- [ ] https://coreweave.com/careers/job?4645664006&board=coreweave&gh_jid=4645664006 | Weights & Biases (CoreWeave) | HPC Engineer
+- [ ] https://coreweave.com/careers/job?4601657006&board=coreweave&gh_jid=4601657006 | Weights & Biases (CoreWeave) | HPC Performance Engineer
+- [ ] https://coreweave.com/careers/job?4676234006&board=coreweave&gh_jid=4676234006 | Weights & Biases (CoreWeave) | Integration Engineer Enterprise Systems
+- [ ] https://coreweave.com/careers/job?4670034006&board=coreweave&gh_jid=4670034006 | Weights & Biases (CoreWeave) | Integration Engineer, People Technologies
+- [ ] https://coreweave.com/careers/job?4677965006&board=coreweave&gh_jid=4677965006 | Weights & Biases (CoreWeave) | Network Engineer (Remote Access & Wireless)
+- [ ] https://coreweave.com/careers/job?4657803006&board=coreweave&gh_jid=4657803006 | Weights & Biases (CoreWeave) | Offensive Security Engineer
+- [ ] https://coreweave.com/careers/job?4617382006&board=coreweave&gh_jid=4617382006 | Weights & Biases (CoreWeave) | Operations Engineer, Fleet Reliability 
+- [ ] https://coreweave.com/careers/job?4673462006&board=coreweave&gh_jid=4673462006 | Weights & Biases (CoreWeave) | Operations Engineer, HPC Networking
+- [ ] https://coreweave.com/careers/job?4647106006&board=coreweave&gh_jid=4647106006 | Weights & Biases (CoreWeave) | People Business Partner - Product & Engineering
+- [ ] https://coreweave.com/careers/job?4680813006&board=coreweave&gh_jid=4680813006 | Weights & Biases (CoreWeave) | Product Growth Strategist - AI & Engineering
+- [ ] https://coreweave.com/careers/job?4614153006&board=coreweave&gh_jid=4614153006 | Weights & Biases (CoreWeave) | Production Engineer
+- [ ] https://coreweave.com/careers/job?4617128006&board=coreweave&gh_jid=4617128006 | Weights & Biases (CoreWeave) | Production Engineer, Support tooling (Tooling and Frameworks)
+- [ ] https://coreweave.com/careers/job?4670169006&board=coreweave&gh_jid=4670169006 | Weights & Biases (CoreWeave) | Productivity Platforms Developer
+- [ ] https://coreweave.com/careers/job?4681303006&board=coreweave&gh_jid=4681303006 | Weights & Biases (CoreWeave) | Security Operations Engineer 
+- [ ] https://coreweave.com/careers/job?4671477006&board=coreweave&gh_jid=4671477006 | Weights & Biases (CoreWeave) | Software Engineer - Data Infrastructure Services
+- [ ] https://coreweave.com/careers/job?4678606006&board=coreweave&gh_jid=4678606006 | Weights & Biases (CoreWeave) | Software Engineer II, Developer Experience
+- [ ] https://coreweave.com/careers/job?4577764006&board=coreweave&gh_jid=4577764006 | Weights & Biases (CoreWeave) | Software Engineer, Kubernetes
+- [ ] https://coreweave.com/careers/job?4656273006&board=coreweave&gh_jid=4656273006 | Weights & Biases (CoreWeave) |  Software Engineer, Kubernetes Core Interfaces
+- [ ] https://coreweave.com/careers/job?4569274006&board=coreweave&gh_jid=4569274006 | Weights & Biases (CoreWeave) | Software Engineer, Network Services
+- [ ] https://coreweave.com/careers/job?4587675006&board=coreweave&gh_jid=4587675006 | Weights & Biases (CoreWeave) | Software Engineer, Observability
+- [ ] https://coreweave.com/careers/job?4664429006&board=coreweave&gh_jid=4664429006 | Weights & Biases (CoreWeave) | Sr. Engineer, Storage
+- [ ] https://coreweave.com/careers/job?4627277006&board=coreweave&gh_jid=4627277006 | Weights & Biases (CoreWeave) | Sr GPU Infrastructure Software Engineer
+- [ ] https://coreweave.com/careers/job?4626698006&board=coreweave&gh_jid=4626698006 | Weights & Biases (CoreWeave) | Sr. Software Engineer - Perf and Benchmarking
+- [ ] https://coreweave.com/careers/job?4676913006&board=coreweave&gh_jid=4676913006 | Weights & Biases (CoreWeave) | Sr. Software Engineer - Source Control And Governance
+- [ ] https://coreweave.com/careers/job?4599319006&board=coreweave&gh_jid=4599319006 | Weights & Biases (CoreWeave) | Systems Engineer, Kernel
+- [ ] https://coreweave.com/careers/job?4673956006&board=coreweave&gh_jid=4673956006 | Weights & Biases (CoreWeave) | Systems Engineer, People Systems
+- [ ] https://jobs.ashbyhq.com/cradlebio/ae6e6352-28e5-4b2f-b1d9-da7da078f011 | Cradle | Backend Software Engineer, Python
+- [ ] https://jobs.ashbyhq.com/cradlebio/8d7bc37e-de80-4eb5-b1ef-195f53f011c3 | Cradle | Scientific Education Developer, Cradle Academy
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8431122002 | Wayve | Application Software Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8460441002 | Wayve | Application Software Engineer - Relocation to Tokyo
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8483723002 | Wayve | Cloud Infrastructure Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8506438002 | Wayve | Control Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8501381002 | Wayve | Customer Integration Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8467521002 | Wayve | Field Engineer 
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8483422002 | Wayve | Hardware Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8525755002 | Wayve | HIL Platform Scalability Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8493277002 | Wayve | IT Support Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8545468002 | Wayve | NPI Engineer
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8423176002 | Wayve | Software Engineer - OS, Robot Software
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8482117002 | Wayve | Software Engineer - Runtime Platform, Robot Software
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8423839002 | Wayve | Software Engineer - Sensor Systems, Robot Software
+- [ ] https://wayve.firststage.co/jobs?gh_jid=8422175002 | Wayve | Software Integration Engineer (6 months Contract) 
+- [ ] https://jobs.ashbyhq.com/photoroom/f4f3a376-7bec-462d-ba8b-6de99d7ae011 | Photoroom | Contract FastAPI Engineer (6 months)
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4789348101 | PhysicsX | Forward Deployed Applications - Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4860241101 | PhysicsX | Forward Deployed Software Engineer
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4824923101 | PhysicsX | Frontend Software Engineer - Core Services
+- [ ] https://job-boards.eu.greenhouse.io/physicsx/jobs/4845916101 | PhysicsX | Simulation Engineer - FEA
+- [ ] http://stability.ai/careers?gh_jid=4712826101 | Stability AI | Generative AI Inference Engineer
+- [ ] http://stability.ai/careers?gh_jid=4840171101 | Stability AI | Solutions Engineer
+- [ ] https://jobs.lever.co/palantir/205c3184-4272-41a9-a1e2-5352d4d00910 | Palantir | Application Security Engineer
+- [ ] https://jobs.lever.co/palantir/0b2dbe51-0d9f-47ee-9f24-82bff4654048 | Palantir | Backend Software Engineer
+- [ ] https://jobs.lever.co/palantir/10dfc8bc-99ad-4ca2-ab76-853cb90a92c2 | Palantir | Backend Software Engineer - Application Development
+- [ ] https://jobs.lever.co/palantir/1345438c-ebfc-4fa5-b545-30c1414f317c | Palantir | Backend Software Engineer - Defense
+- [ ] https://jobs.lever.co/palantir/6fe5515f-f677-4d98-8ac2-1775a425f5e7 | Palantir | Backend Software Engineer - Infrastructure
+- [ ] https://jobs.lever.co/palantir/fb2d3222-dbd8-4e03-8d39-47b820e9509c | Palantir | Backend Software Engineer - Infrastructure, Foundations
+- [ ] https://jobs.lever.co/palantir/6fa1ad9b-4506-45e4-a476-f4292911a279 | Palantir | Compliance Engineer
+- [ ] https://jobs.lever.co/palantir/3d06b4bc-6a7b-4f73-b5c5-4544354e3d0f | Palantir | Edge Infrastructure Engineer
+- [ ] https://jobs.lever.co/palantir/636fc05c-d348-4a06-be51-597cb9e07488 | Palantir | Forward Deployed AI Engineer
+- [ ] https://jobs.lever.co/palantir/96a0ce26-cf84-4fa8-934b-acc4363620b2 | Palantir | Forward Deployed Engineer - Mixed Reality
+- [ ] https://jobs.lever.co/palantir/72e51928-07f0-4be0-aae5-0ae6956a4846 | Palantir | Forward Deployed Infrastructure Engineer - UK Government
+- [ ] https://jobs.lever.co/palantir/0fccbe95-2520-4df3-8600-7897656c06a2 | Palantir | Forward Deployed Infrastructure Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/5a99fe16-1bda-4313-ace2-a11ea6e58f0c | Palantir | Forward Deployed Reliability Engineer
+- [ ] https://jobs.lever.co/palantir/22053072-4c22-49c4-8299-28e107ceeb98 | Palantir | Forward Deployed Security Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/1bb19522-3936-4adc-9ced-c3df8b5900b9 | Palantir | Forward Deployed Software Engineer
+- [ ] https://jobs.lever.co/palantir/27bf5707-96fa-460e-8a5b-53bc192ca87b | Palantir | Forward Deployed Software Engineer  - Edge Autonomous Systems
+- [ ] https://jobs.lever.co/palantir/8f15d728-99cc-4003-9add-928bd72a7f30 | Palantir | Forward Deployed Software Engineer - AUS Government
+- [ ] https://jobs.lever.co/palantir/0edf7365-49f0-4263-818a-19409ec4f430 | Palantir | Forward Deployed Software Engineer - Autonomous Systems C2
+- [ ] https://jobs.lever.co/palantir/34b3a697-6e22-4751-befd-0b7921abbd5f | Palantir | Forward Deployed Software Engineer - Intel
+- [ ] https://jobs.lever.co/palantir/8aba5995-653d-4805-96e8-24488e6abf37 | Palantir | Forward Deployed Software Engineer - Japan Forward Deployed
+- [ ] https://jobs.lever.co/palantir/12e94938-55cb-4ad9-9c05-405ebc9ef430 | Palantir | Forward Deployed Software Engineer - Japan Government
+- [ ] https://jobs.lever.co/palantir/a39bf84c-6648-4871-bd07-9b882d401c4c | Palantir | Forward Deployed Software Engineer - Korea Forward Deployed
+- [ ] https://jobs.lever.co/palantir/3d0d9d92-0321-4459-a17d-fa1a76636a43 | Palantir | Forward Deployed Software Engineer - Tactical Edge
+- [ ] https://jobs.lever.co/palantir/57a3f928-e7d3-4037-8196-b38e2f867152 | Palantir | Forward Deployed Software Engineer - UK Government
+- [ ] https://jobs.lever.co/palantir/289ad049-7b4e-41e3-8a39-146fbeb6fb64 | Palantir | Forward Deployed Software Engineer - US Government
+- [ ] https://jobs.lever.co/palantir/be4ab5cb-9caa-4c2a-97b9-c73805fca4fc | Palantir | Forward Deployed Software Engineer - US Government - Federal Health and Civilian
+- [ ] https://jobs.lever.co/palantir/13f99633-43b5-4459-8e84-25073f257c18 | Palantir | Forward Deployed Software Engineer - Warp Speed
+- [ ] https://jobs.lever.co/palantir/1b6f1d82-d459-4dea-8bc2-8d2ffe6f881a | Palantir | Forward Deployed Software Engineer, Internship
+- [ ] https://jobs.lever.co/palantir/ac0dc094-2480-43c2-8495-26ade227ff4f | Palantir | Forward Deployed Software Engineer, Internship - France
+- [ ] https://jobs.lever.co/palantir/d582cd84-14fd-4aa3-b413-15982d286bd9 | Palantir | Forward Deployed Software Engineer, Internship - Poland
+- [ ] https://jobs.lever.co/palantir/315f695d-04d1-4a9a-848e-cb2bec7a997e | Palantir | Forward Deployed Software Engineer, Internship - US Government
+- [ ] https://jobs.lever.co/palantir/b4aa51a2-bc43-4d67-bf55-12db7feefb3a | Palantir | Forward Deployed Software Engineer, New Grad - UK Government
+- [ ] https://jobs.lever.co/palantir/2da4be12-bc7a-4950-87db-e9d68d955ff7 | Palantir | Full Stack Software Engineer - Application Development
+- [ ] https://jobs.lever.co/palantir/0dd51d8f-aa78-49f9-ae39-e3b2daa082d1 | Palantir | Incident Management Engineer
+- [ ] https://jobs.lever.co/palantir/1124402c-2088-40c6-b6aa-b9ef7777519b | Palantir | Information Security Engineer
+- [ ] https://jobs.lever.co/palantir/3c788579-eec7-4897-b446-4afc944e79be | Palantir | Information Security Engineer - DLP
+- [ ] https://jobs.lever.co/palantir/1e77a5e8-9843-4516-a186-7c24f0ff07a0 | Palantir | Information Security Engineer - Endpoint
+- [ ] https://jobs.lever.co/palantir/2127f3af-1fb3-4aa3-9aa1-eb06967e0166 | Palantir | Information Security Engineer - Insider Risk
+- [ ] https://jobs.lever.co/palantir/74aed644-d963-4c5d-b7a0-149bc35f9c50 | Palantir | Mixed Reality Developer
+- [ ] https://jobs.lever.co/palantir/666d13c7-c6f0-43fb-a0ab-091c338085dc | Palantir | Platform Engineer - Identity and Access Management (IAM)
+- [ ] https://jobs.lever.co/palantir/a753a9e7-a361-426b-9c25-3cf2488c1730 | Palantir | Platform Intelligence Engineer
+- [ ] https://jobs.lever.co/palantir/15f01f3a-922d-4cff-b093-888333d88628 | Palantir | Product Infrastructure Security Engineer
+- [ ] https://jobs.lever.co/palantir/250f623c-9afb-4c91-b0c0-25d4e83005ec | Palantir | Product Reliability Engineer - Defense
+- [ ] https://jobs.lever.co/palantir/164da0e1-0bc2-46a7-bd4c-cb46b889dc63 | Palantir | Production Engineer - Database Operations
+- [ ] https://jobs.lever.co/palantir/8f308f3e-43d2-49c9-accd-cc7af0f1565c | Palantir | Software Engineer - Apollo Platform
+- [ ] https://jobs.lever.co/palantir/832e4652-5088-4e5b-aeac-1e82ec3ebad4 | Palantir | Software Engineer - Apollo Systems
+- [ ] https://jobs.lever.co/palantir/cf76738e-3030-42fa-92ac-a9446df956fc | Palantir | Software Engineer - Core Interfaces
+- [ ] https://jobs.lever.co/palantir/f7dbfdf1-0bb1-4c11-ac15-6a139cee3410 | Palantir | Software Engineer - Defense Applications
+- [ ] https://jobs.lever.co/palantir/3c84af24-b7aa-483e-b2c3-e1d83494fe15 | Palantir | Software Engineer - Developer Productivity
+- [ ] https://jobs.lever.co/palantir/397fb983-47b7-4a53-a7df-f080f43f7720 | Palantir | Software Engineer - Edge
+- [ ] https://jobs.lever.co/palantir/cd2423c6-da68-430c-8be5-0ae7eea36497 | Palantir | Software Engineer - Environment Platform
+- [ ] https://jobs.lever.co/palantir/71ed917e-850a-484b-9454-fa66bdf24540 | Palantir | Software Engineer - Frontend Developer Productivity
+- [ ] https://jobs.lever.co/palantir/1ec0ff9f-3d9d-43bc-8aa0-005a887513d0 | Palantir | Systems Engineer - Business Systems
+- [ ] https://jobs.lever.co/palantir/4255e21c-d0f2-4f57-b5db-1f65830d6425 | Palantir | Web Application Developer - Defense
+- [ ] https://jobs.lever.co/palantir/e6789b17-62fb-4226-a079-f8c17ff19e2d | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
+- [ ] https://jobs.lever.co/palantir/5c4c65c5-77da-4d36-856c-4ade87631019 | Palantir | Year at Palantir - Forward Deployed Software Engineer, Internship - USG
+- [ ] https://jobs.ashbyhq.com/synthesia/dcc970b0-9043-4fc6-b628-3b8dad021c84 | Synthesia | Webflow Developer / Front-End Engineer
+- [ ] https://jobs.ashbyhq.com/synthesia/6541c6c3-7382-48ee-a408-f712cebfcaba | Synthesia | IT Systems and Support Engineer
+- [ ] https://jobs.ashbyhq.com/synthesia/713ae2ad-aad2-48c9-987a-0d409ae52b00 | Synthesia | Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/synthesia/52ad9ec7-5c48-46dc-9849-85c5af0039c0 | Synthesia | Frontend Engineer, Growth
+- [ ] https://jobs.ashbyhq.com/lakera.ai/55dd0a97-cd7a-441c-95b4-8f55f63ed29a | Lakera | Solutions Engineer (Dallas, Texas)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/da6a7e0b-39bc-4bec-aafe-10669baf2434 | Lakera | Solutions Engineer (New York City, New York)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/be24c900-5253-4e41-a4f9-1ad3a294d202 | Lakera | Solutions Engineer (London)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/27130c78-fb9a-436b-a8a1-6445b1bcf329 | Lakera | Solutions Engineer (Singapore)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/a08b489f-d492-4cb5-9c78-301440580cb3 | Lakera | Solutions Engineer (Tokyo)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/6affd7e7-4efa-49d0-b577-571177d533d2 | Lakera | Solutions Engineer (Germany)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/792d73ef-829e-460b-9d90-f08890a5b6f6 | Lakera | Solutions Engineer (Italy)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/25b1cf59-fee8-4009-a36f-2b0b83b3cc56 | Lakera | Software Engineer, Agentic team
+- [ ] https://jobs.ashbyhq.com/lakera.ai/dcaef0d1-fdcb-4299-9f3e-1aba87dc33b2 | Lakera | Solutions Engineer (Boston, Massachusetts)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/12b50d6e-3977-45e7-975a-6a72ebb1312d | Lakera | Solutions Engineer (Washington D.C.)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/f476a0ea-dfda-459e-a90d-e28bc9c6a2a1 | Lakera | Solutions Engineer (Philadelphia, Pennsylvania)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/5e6ad31b-5597-4106-a864-2db3d8ad7f91 | Lakera | Solutions Engineer (Miami, Florida)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/b286cb02-de27-4f6b-866a-2262dfcacacd | Lakera | Solutions Engineer (Jersey City, New Jersey)
+- [ ] https://jobs.ashbyhq.com/lakera.ai/24ddfe7e-f7f8-41f9-b3c9-26f59f636c7e | Lakera | Solutions Engineer (Pittsburgh, Pennsylvania)
+- [ ] https://jobs.lever.co/mistral/fd865fe4-7344-43b0-9d8d-600e8b366725 | Mistral AI | AI Developer Advocate
+- [ ] https://jobs.lever.co/mistral/3e8b03e7-ff33-4cd1-8042-90b7ac3c4683 | Mistral AI | AI Developer Advocate - Singapore
+- [ ] https://jobs.lever.co/mistral/c79ff8ed-6689-4dda-aec6-979a5dc767d0 | Mistral AI | AI Engineer, Product
+- [ ] https://jobs.lever.co/mistral/aceffeba-c4e9-4b3b-adff-e7e78b986c5c | Mistral AI | Applied AI Engineer, Fullstack Software Engineer - EMEA
+- [ ] https://jobs.lever.co/mistral/ac195fdb-1731-4ce2-b47e-c1bb8c72c59d | Mistral AI | Applied AI Engineer, Prototyping
+- [ ] https://jobs.lever.co/mistral/e0db3860-0a80-47a8-958a-f8e62f3bb59c | Mistral AI | Applied AI, Evaluation Engineer
+- [ ] https://jobs.lever.co/mistral/de237900-114c-4e39-aa19-671bb3201eee | Mistral AI | Applied AI, Fullstack Software Engineer, Critical and Sovereign Institutions, Paris
+- [ ] https://jobs.lever.co/mistral/b7ae8fc4-5779-4ad2-8f5b-632b4d9498cf | Mistral AI | Applied Scientist / Research Engineer - EMEA
+- [ ] https://jobs.lever.co/mistral/c41d9d9e-f0ea-4621-a4a9-3f10dfa9ae84 | Mistral AI | Applied Scientist / Research Engineer - Singapore
+- [ ] https://jobs.lever.co/mistral/426ef8c0-eb26-4004-a690-f33c62b445a7 | Mistral AI | Applied Scientist / Research Engineer (Internship)
+- [ ] https://jobs.lever.co/mistral/249d0ec9-1824-41cb-8c4f-cb17a1d5d111 | Mistral AI | Applied Scientist / Research Engineer, AI4Engineering - EMEA
+- [ ] https://jobs.lever.co/mistral/94a331c8-0ddf-4e88-a6ad-7a70c212e0fa | Mistral AI | CyberSecurity Engineer, DevSecOps
+- [ ] https://jobs.lever.co/mistral/6f7f6e7a-3dc4-430b-8957-a64450a10066 | Mistral AI | Cybersecurity Engineer, SIEM
+- [ ] https://jobs.lever.co/mistral/f9782b09-ca3c-4bfc-ba7a-349551ef9a82 | Mistral AI | CyberSecurity Engineer, SOC Analyst
+- [ ] https://jobs.lever.co/mistral/2414ad08-5756-4875-afb5-04d26464b397 | Mistral AI | CyberSecurity, Offensive Security Engineer
+- [ ] https://jobs.lever.co/mistral/ddf7bcbb-e223-4768-a553-6e95df472cf7 | Mistral AI | Datacenter Hardware Engineer, HPC
+- [ ] https://jobs.lever.co/mistral/ea94b55b-58e1-437b-bf3d-07ed150308e3 | Mistral AI | Field Hardware Engineer, HPC
+- [ ] https://jobs.lever.co/mistral/aef81704-b44b-4a42-bdb0-a895cf709df6 | Mistral AI | M&A Tech Engineer
+- [ ] https://jobs.lever.co/mistral/64c9a48e-6d23-4090-bf0f-5a979830fbaf | Mistral AI | Mistral Cloud - Software Engineer, Backend (Golang)
+- [ ] https://jobs.lever.co/mistral/6857fa38-ce30-4513-9930-acf7d78d42ed | Mistral AI | Network Engineer, HPC - Paris Region
+- [ ] https://jobs.lever.co/mistral/ef744f52-3ceb-42f1-84f6-1c8bde220eb1 | Mistral AI | Research Engineer - Robotics
+- [ ] https://jobs.lever.co/mistral/071a5491-ea01-413f-ad78-f85b5e4c2215 | Mistral AI | Research Engineer, Data Infrastructure
+- [ ] https://jobs.lever.co/mistral/18be2b70-c05d-48e4-82ac-e5cb462c96c0 | Mistral AI | Research Platform Engineer
+- [ ] https://jobs.lever.co/mistral/df0d75c1-97ef-4e50-85e6-0ffd8f5b7d7c | Mistral AI | Research Software Engineer - Paris/London
+- [ ] https://jobs.lever.co/mistral/305432ef-27ac-4012-a893-a662813ac6e9 | Mistral AI | Software Engineer,  Frontend
+- [ ] https://jobs.lever.co/mistral/77b8339f-da37-4f38-b554-1d154f72ca8f | Mistral AI | Software Engineer, Backend (London)
+- [ ] https://jobs.lever.co/mistral/f2e8ba75-bf5a-4976-bb96-c5d3e0f99366 | Mistral AI | Software Engineer, Backend (New-York)
+- [ ] https://jobs.lever.co/mistral/e76d2957-2bf6-4d8f-90a2-29bf9a927823 | Mistral AI | Software Engineer, Backend (Paris)
+- [ ] https://jobs.lever.co/mistral/31364497-4081-454a-b50c-12d15daf6876 | Mistral AI | Software Engineer, Deployment Infrastructure
+- [ ] https://jobs.lever.co/mistral/c9e16eb0-0cb9-423d-8495-a96d10782622 | Mistral AI | Software Engineer, DevEx
+- [ ] https://jobs.lever.co/mistral/3eef7a1f-cd9d-430e-ac67-9d52534c346a | Mistral AI | Software Engineer, Enterprise Agents
+- [ ] https://jobs.lever.co/mistral/70d5293a-9183-40d9-874a-cc08a14d5de6 | Mistral AI | Software Engineer, Knowledge and Search
+- [ ] https://jobs.lever.co/mistral/cf4616fc-977a-475c-bb2e-eb46a2c4a94f | Mistral AI | Software Engineer, New Grad
+- [ ] https://jobs.lever.co/mistral/03918386-cb56-4e4d-afa8-1f8b7676a4a6 | Mistral AI | Software Engineer, QA
+- [ ] https://jobs.lever.co/mistral/c2cf8b02-cb79-4e13-8717-25817813542d | Mistral AI | Systems Engineer, HPC
+- [ ] https://jobs.lever.co/mistral/a228ac73-62f1-4a2a-8afe-5070f445143f | Mistral AI | Technical Support Engineer - Use Cases
+- [ ] https://jobs.lever.co/mistral/f00a13aa-61f1-4c56-993c-20846adc2b15 | Mistral AI | Technical Support Engineer – On-Premise
+- [ ] https://jobs.lever.co/spotify/08d82da1-0c72-44d1-91eb-7fa22dee3d39 | Spotify | Analytics Engineer II
+- [ ] https://jobs.lever.co/spotify/66492688-d5b0-4cf8-b1a4-4a715157edd9 | Spotify | Backend Engineer  - Data Infrastructure
+- [ ] https://jobs.lever.co/spotify/805d36ed-624c-41d4-9eaa-6f4bff7f53e3 | Spotify | Backend Engineer - Ads Measurement
+- [ ] https://jobs.lever.co/spotify/32d6a16a-e0b8-4049-8221-077dc514af48 | Spotify | Backend Engineer - Core Infrastructure
+- [ ] https://jobs.lever.co/spotify/db6450c7-5017-4aa5-8a64-52e39f1ed525 | Spotify | Backend Engineer - Data Platform
+- [ ] https://jobs.lever.co/spotify/e8ef80ed-633f-45ec-a1fc-a55704241f64 | Spotify | Backend Engineer - Platform
+- [ ] https://jobs.lever.co/spotify/58860a10-4a0d-4a21-a495-1f3605b300c1 | Spotify | Backend Engineer - User Platform
+- [ ] https://jobs.lever.co/spotify/830106b6-0055-4003-bcaa-370648915622 | Spotify | Backend Engineer- Release
+- [ ] https://jobs.lever.co/spotify/454e6013-78ca-4009-9ad4-7597f2045d0a | Spotify | Backend Engineer, Podcast
+- [ ] https://jobs.lever.co/spotify/361e8a26-1386-477f-bfd0-c819ba863be3 | Spotify | C++ Engineer - Platform Engineering
+- [ ] https://jobs.lever.co/spotify/74c04c1a-afe8-4616-be68-ae452daed595 | Spotify | Full Stack Engineer
+- [ ] https://jobs.lever.co/spotify/7a6a7b30-828f-4a72-bc9f-09bafe2934b8 | Spotify | Full Stack Engineer - Advertising
+- [ ] https://jobs.lever.co/spotify/eef2e6da-d277-469c-8ba5-3592339506d9 | Spotify | Full Stack Engineer - Audiobooks
+- [ ] https://jobs.lever.co/spotify/69524356-88f8-4a8e-b543-0198670e4ceb | Spotify | Full Stack Engineer - Podcast
+- [ ] https://jobs.lever.co/spotify/2d1f743f-9174-413f-b824-6e426082ebeb | Spotify | Fullstack Engineer - Generative UI Platform
+- [ ] https://jobs.lever.co/spotify/63aec906-826b-4fa4-b3eb-d3bbac43503f | Spotify | Fullstack/Backend Engineer  - Conversational Analytic
+- [ ] https://jobs.lever.co/spotify/6e1aa824-5287-495e-aec9-099b4c2e72db | Spotify | Security Engineer - Product Security
+- [ ] https://jobs.lever.co/spotify/3707cd2f-202a-4aec-9de8-bf73a5a6e922 | Spotify | Software Engineer - Platform Infrastructure
+- [ ] https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066888101 | Amplemarket | Spontaneous Application - Infrastructure Engineer
+- [ ] https://jobs.lever.co/qonto/21bf0ae1-b5b1-428a-b1e6-2cdb9476987e | Qonto | Full-Stack Engineer - People Products (Freelance)
+- [ ] https://jobs.lever.co/qonto/5e9f184e-0785-41d3-9a41-28b4dc317c87 | Qonto | Product Engineer - Accounting Domain (Frontend: React)
+- [ ] https://jobs.lever.co/qonto/1f945bad-2c45-4ac1-be06-a219dc9e1a93 | Qonto | Software Engineer (Engineering Efficiency) - remote friendly
+- [ ] https://jobs.ashbyhq.com/faculty/6c9b3973-b841-434f-8e77-f6078b364549 | Faculty | Software Engineer 
+- [ ] https://jobs.ashbyhq.com/faculty/91c88cf4-cf93-43da-8d02-01a4fc8d9da5 | Faculty | Software Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/67645c5e-abe8-434f-8013-f13e82259e81 | Faculty | Full Stack Software Engineer 
+- [ ] https://jobs.ashbyhq.com/faculty/a3b5a94b-b8cb-42a8-aebd-607057ca7205 | Faculty | Learning Engineer
+- [ ] https://jobs.ashbyhq.com/faculty/ffb24889-b115-4f6e-8d69-cc385b95dac7 | Faculty | Software Engineer - Platform
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5542602004 | Hightouch | Software Engineer, AI Agents
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983891004 | Hightouch | Software Engineer, Control Plane
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983811004 | Hightouch | Software Engineer, Customer Studio Backend
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/4782632004 | Hightouch | Software Engineer, Distributed Systems
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5983863004 | Hightouch | Software Engineer, Streaming Systems
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5990367004 | Hightouch | Solutions Engineer - EMEA
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5852695004 | Hightouch | Solutions Engineer EMEA (German speaking) 
+- [ ] https://jobs.lever.co/pigment/bbb9ea1a-fbb2-44ca-9195-770199323725 | Pigment | Front-end Engineer
+- [ ] https://jobs.ashbyhq.com/resend/06bd9cb2-d189-41b6-baf7-42bd5da9610f | Resend | Developer Experience Engineer 
+- [ ] https://jobs.ashbyhq.com/resend/a95832a8-a2ab-4a63-8303-9989f1fc47d6 | Resend | Backend Engineer, Core Sending
+- [ ] https://jobs.ashbyhq.com/perplexity/be94e89b-89d5-4f2a-a58b-7929c8d97f92 | Perplexity | Internship - Search Backend Infra Engineer
+- [ ] https://jobs.ashbyhq.com/workos/d0628c8a-bdf2-4027-b899-4e1c42f8d90b | WorkOS | Developer Success Engineer
+- [ ] https://jobs.ashbyhq.com/workos/d76843a8-2a45-444a-b187-3336b45a7934 | WorkOS | Product Engineer - Enterprise
+- [x] #008 | https://jobs.ashbyhq.com/workos/f2674bd8-3062-4cf8-98fb-72cb81dc5d39 | WorkOS | Software Engineer - Frontend | 1.2/5 | PDF ❌
+- [ ] https://jobs.ashbyhq.com/workos/8317f6f4-3d85-4a9f-bec3-753e4b646fc2 | WorkOS | Product Engineer - AuthKit
+- [ ] https://jobs.ashbyhq.com/workos/26a54ffa-9465-4d13-bc5f-db41a2bbe505 | WorkOS | Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/workos/07a7d732-ac5d-4aab-b4bf-ee89951660c2 | WorkOS | Software Engineer - Productivity
+- [ ] https://jobs.ashbyhq.com/workos/10d184bd-7b94-4205-8dc5-d3e3ede9bdc2 | WorkOS | Product Engineer - Radar
+- [ ] https://jobs.ashbyhq.com/workos/1269a212-2b49-4e99-a379-fc47f1d76e46 | WorkOS | Product Engineer - Pipes & Vault
+- [ ] https://jobs.ashbyhq.com/workos/dc23fd7b-ee4c-4e6a-959a-209b2eab8b17 | WorkOS | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/workos/bb4e927b-5bbd-4704-954d-5b716c3ff1f3 | WorkOS | Developer Relations
+- [ ] https://jobs.ashbyhq.com/workos/b6c03b24-b4ee-4ee3-ac62-5e5718c502d4 | WorkOS | Developer Experience Engineer
+- [ ] https://jobs.ashbyhq.com/workos/639bcb50-f1dd-4756-aa45-ce176494b4b1 | WorkOS | Product Engineer - Feature Flags
+- [ ] https://jobs.ashbyhq.com/workos/599978f1-c834-4e42-aa44-23bc47518fad | WorkOS | Database Reliability Engineer
+- [ ] https://jobs.ashbyhq.com/workos/5e650527-d8dd-413a-9cfb-d7d68143274b | WorkOS | Applied AI Engineer
+- [ ] https://jobs.ashbyhq.com/workos/735cc0a0-78d3-4512-9364-fb98921cccbb | WorkOS | Product Security Engineer
+- [ ] https://jobs.ashbyhq.com/workos/f229d715-9c93-4e5a-83cb-15718af99ed5 | WorkOS | Detection & Response, Security Engineer
+- [ ] https://jobs.ashbyhq.com/workos/7757900a-02fb-40fd-b484-923bcffd91bf | WorkOS | Systems Engineer
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4021848009 | PlanetScale | Developer Educator
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009926009 | PlanetScale | Enterprise Support Engineer
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4009938009 | PlanetScale | Software Engineer - Information Security
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4036240009 | PlanetScale | Software Engineer - Infrastructure
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4052805009 | PlanetScale | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/claylabs/232ab8c1-36d7-4114-91c1-0f9c9e4064bc | Clay Labs | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/claylabs/9b008b26-189b-45cf-83d8-fee117d32874 | Clay Labs | Software Engineer, Developer Experience (AI)
+- [ ] https://jobs.ashbyhq.com/claylabs/045ce27d-8693-4402-86f6-2f09932cc777 | Clay Labs | Software Engineer, Full Stack
+- [ ] https://jobs.ashbyhq.com/claylabs/248aa0c7-034f-47d3-a57e-ce16736eeab6 | Clay Labs | Software Engineer, Backend
+- [x] #007 | https://jobs.ashbyhq.com/claylabs/18a42bd0-5bff-4c8e-a403-fb79aad2c57b | Clay Labs | Software Engineer, Frontend | 1.5/5 | PDF ❌
+- [ ] https://jobs.ashbyhq.com/claylabs/3940ea40-4c11-40f5-b710-d770c88d0f1b | Clay Labs | Software Engineer, Infrastructure
+- [ ] https://jobs.ashbyhq.com/claylabs/b17bd432-72e4-4f03-b8db-2fd677c2cfe8 | Clay Labs | Web Developer (Growth & Conversion Optimization)
+- [ ] https://jobs.ashbyhq.com/claylabs/c9768233-3f8a-431c-b3ad-a3e388fdb85e | Clay Labs | Technical Partnerships Engineer
+- [ ] https://jobs.ashbyhq.com/claylabs/235c38ee-4c08-462d-b9b3-eadc156b1810 | Clay Labs | Security Engineer
+- [ ] https://jobs.ashbyhq.com/inngest/ae72d036-b98b-4abb-8454-a687870cf0ca | Inngest | Distributed Systems Engineer - Platform
+- [ ] https://jobs.ashbyhq.com/inngest/67dddf56-5b29-48e0-81bb-b970f7cb6e1a | Inngest | Developer Content Marketer
+- [ ] https://jobs.ashbyhq.com/inngest/3b9163fe-e0e4-426b-94e7-0f0d42f634c7 | Inngest | Support Escalations Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/c01f7436-1fdd-4a3e-8b96-8cadc33b006e | Supabase | Support Engineer (EMEA)
+- [ ] https://jobs.ashbyhq.com/supabase/e4e3ccb7-7b7d-42a2-be0f-26cbb5ae4abd | Supabase | Support Engineer (AMER)
+- [ ] https://jobs.ashbyhq.com/supabase/142135ae-a15f-4ec7-90bb-cb4e7968bc09 | Supabase | Support Engineer (APAC)
+- [ ] https://jobs.ashbyhq.com/supabase/2e718684-4f75-4a99-8d6b-3b6bd44e4228 | Supabase | Multigres Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/a1320bbf-bfae-49a8-a1b7-12eeccaf39ca | Supabase | Developer Relations Engineer (San Francisco, CA)
+- [ ] https://jobs.ashbyhq.com/supabase/c16bd707-29f2-46fb-8409-7270ff00978b | Supabase | Postgres Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/f035bda1-b5d3-4c5b-8736-b9c335fe1c3b | Supabase | Multigres Deployment Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/f18b1173-51c3-4ff6-bcda-89f8111931f4 | Supabase | Database Support Engineer (AMER)
+- [ ] https://jobs.ashbyhq.com/supabase/3889002e-536e-4046-a330-70e942b0cc96 | Supabase | Database Support Engineer (EMEA)
+- [ ] https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183 | Supabase | Database Support Engineer (APAC)
+- [ ] https://jobs.ashbyhq.com/supabase/2ed5e80d-438b-47a5-9efe-12d168b8de81 | Supabase | Software Engineer - Support Tooling (APAC/AMER)
+- [ ] https://jobs.ashbyhq.com/supabase/26ad8432-a03e-40f9-a4cc-05344ceedfa3 | Supabase | Customer Reliability Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/894139b0-cc52-4fe4-b84f-ab6660b517d0 | Supabase | Infrastructure Engineer - Observability (APAC)
+- [ ] https://jobs.ashbyhq.com/supabase/ad92f53a-6d0f-4761-abc3-588c7c7c6cd8 | Supabase | SDK Engineer - Kotlin
+- [ ] https://jobs.ashbyhq.com/supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e | Supabase | AI Tooling Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/48950725-e0d9-4025-92d9-f75e1b60ce45 | Supabase | Postgres Deployment Engineer (Nix)
+- [ ] https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d | Supabase | Software Engineer (Go) - Auth Product
+- [ ] https://jobs.ashbyhq.com/supabase/77439e1c-e4eb-483c-aa8e-7686913886e3 | Supabase | Software Engineer (Go) - Auth
+- [ ] https://jobs.ashbyhq.com/supabase/847a7bd7-6b75-444a-aeda-d0b28a11c764 | Supabase | Platform Engineer - Multicloud
+- [ ] https://jobs.ashbyhq.com/supabase/2e6ee4b3-6573-477f-9c95-d1221cd9f9f9 | Supabase | Design Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/dd3f74dc-29f8-46b1-bcfb-b7f090b7146a | Supabase | CLI Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f | Supabase | Software Engineer: IaC Platform Experience
+- [ ] https://jobs.ashbyhq.com/supabase/3ab0b926-c9b5-4197-aff2-88d5bf009e13 | Supabase | Edge Functions Engineer
+- [ ] https://jobs.ashbyhq.com/supabase/621516b5-4d8f-4ee9-8287-2da12e63d023 | Supabase | OrioleDB Developer (AMER)
+- [ ] https://jobs.ashbyhq.com/sierra/b16462e4-ce32-4ce9-b788-0a8f0f096361 | Sierra | Software Engineer, Product
+- [ ] https://jobs.ashbyhq.com/sierra/d77487f9-bab3-44c6-be18-744e7125c8b3 | Sierra | Software Engineer, Platform
+- [ ] https://jobs.ashbyhq.com/sierra/b7d1dbcd-ca72-472f-b15e-5b4b0f886be0 | Sierra | Software Engineer, Agent
+- [ ] https://jobs.ashbyhq.com/sierra/bbef339c-3365-40df-804b-ece245386b43 | Sierra | Security Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/7053ca02-ee36-48cc-b331-9d795a966c4c | Sierra | Developer Relations Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/f391b10c-7a4a-42b4-9887-dd32b31d6e4e | Sierra | Software Engineer, Frontend
+- [ ] https://jobs.ashbyhq.com/sierra/f4319197-e898-4756-a7f2-af884fe1e0c7 | Sierra | Software Engineer, Intelligence
+- [ ] https://jobs.ashbyhq.com/sierra/55e76105-7f8d-42e8-b1d1-120b7b83922e | Sierra | Software Engineer, Infrastructure
+- [ ] https://jobs.ashbyhq.com/sierra/9ebc3a79-82bf-478d-bd98-d473d41bdeaf | Sierra | Software Engineer, Agent (German speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a | Sierra | Software Engineer, Agent (French speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/aadfc0a0-93f6-454b-9767-c24793fa3eff | Sierra | Software Engineer, Agent (Spanish speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/0c892d11-9f19-4b8d-9c2b-409346c52b7a | Sierra | Software Engineer, Agent Data Platform
+- [ ] https://jobs.ashbyhq.com/sierra/2dee25a0-a0c1-425e-b67a-9d49fc821369 | Sierra | Agent Engineer, TLM
+- [ ] https://jobs.ashbyhq.com/sierra/1bd9c1e7-a2aa-428d-9a31-1a4eed26391f | Sierra | Software Engineer, Voice
+- [ ] https://jobs.ashbyhq.com/sierra/2fdb200f-c5cf-420c-9997-5e5cea6e1e20 | Sierra | Software Engineer, Agent Builder
+- [ ] https://jobs.ashbyhq.com/sierra/6207b02d-d334-4000-b84e-2af779171838 | Sierra | Software Engineer, Agent (Italian speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/ce463311-0c6c-43d9-ab79-dd751743104f | Sierra | Software Engineer, Agent (Arabic speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/5ed4bbfa-1c27-4242-be7f-b8dc4ce8c25f | Sierra | Software Engineer, Insights
+- [ ] https://jobs.ashbyhq.com/sierra/a0b9444b-2354-4db3-8fe8-87892e2e282e | Sierra | Software Engineer, Mobile
+- [ ] https://jobs.ashbyhq.com/sierra/201c6046-acb5-4fd4-a685-e993f34ec0d1 | Sierra | Software Engineer, Security
+- [ ] https://jobs.ashbyhq.com/sierra/fc6eaada-479c-4ff6-be79-7e267b9ed2b4 | Sierra | Software Engineer, Identity & Enterprise Platform
+- [ ] https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66 | Sierra | Software Engineer, Agent - Healthcare
+- [ ] https://jobs.ashbyhq.com/sierra/c6378c64-afc9-4751-a79b-a888fe6ceb70 | Sierra | Support Engineer
+- [ ] https://jobs.ashbyhq.com/sierra/b8a89b9a-70a1-4e47-874c-41542d1bc60a | Sierra | Software Engineer, Agent (Korean Speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/1162dcd2-b181-49d5-9316-342cd68acbed | Sierra | Software Engineer, Agent (Thai Speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/a4541730-ae7f-4771-b3e9-7f9da6cc5d23 | Sierra | Software Engineer, Agent (Cantonese Speaking)
+- [ ] https://jobs.ashbyhq.com/sierra/d9c0aa93-e35d-4752-9cef-4c39dcad5365 | Sierra | Forward Deployed Infrastructure Engineer
+- [ ] https://jobs.ashbyhq.com/legora/8f04eacb-b330-4166-8c88-a77c9cc4f46f | Legora | Platform Engineer
+- [ ] https://jobs.ashbyhq.com/legora/9a04bbd8-0583-48de-9606-431c01079b8b | Legora | Software Engineer 
+- [ ] https://jobs.ashbyhq.com/legora/f1ed20ac-add0-47f0-a6c5-2d6cf5149117 | Legora | Software Engineer
+- [ ] https://jobs.ashbyhq.com/legora/98e93c0a-b4c9-4083-8037-9c83a22e5bec | Legora | React Native Engineer
+- [ ] https://jobs.ashbyhq.com/legora/74277609-d474-4e54-92c3-a532669dd1d1 | Legora | Security Engineer (Detection & Response)
+- [ ] https://jobs.ashbyhq.com/legora/ceda582e-2513-46da-b038-946258c035e1 | Legora | Software Engineer - Internal Tooling
+- [ ] https://jobs.ashbyhq.com/legora/97784bc1-e75b-4da9-89e0-e6e61a6d7e06 | Legora | Platform Engineer 
+- [ ] https://jobs.ashbyhq.com/legora/f3c0712a-f8e2-4dc1-8e83-23da7891a1c2 | Legora | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/legora/f81a4b5e-7ef3-4946-a147-f6c0645e98ca | Legora | Software Engineer (AI Focus)
+- [ ] https://jobs.ashbyhq.com/legora/612ec6a1-afea-4c56-a47c-3bf075395f02 | Legora | Value Engineer
+- [ ] https://jobs.ashbyhq.com/legora/3ec54f52-17db-4cbe-aad7-3c4b496d2afe | Legora | People Enablement Partner - Engineering
+- [ ] https://jobs.ashbyhq.com/legora/e4ce19dc-e800-42cd-835f-dcc43b96d004 | Legora | Software Engineer - AI Enablement & Workplace Technology
+- [ ] https://jobs.ashbyhq.com/lovable/cfef6fe1-e0c9-4139-8618-b51bfb1dc683 | Lovable | Data Platform Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/9f4963e7-be14-4dd9-99ce-05df2f06e22d | Lovable | Engineer - Agents & Evals
+- [ ] https://jobs.ashbyhq.com/lovable/e54d33ea-5f02-48b6-b75e-76ae704af693 | Lovable | Backend Product Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/b9894757-c26b-4c5e-9ee8-3e18d9947fd6 | Lovable | Fullstack Product Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/49281e88-9484-4371-84bb-458e50eb517f | Lovable | Design Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/4fef27e2-82f3-4d43-80ae-465e1a9fe4f3 | Lovable | Enterprise Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/e27e931e-79f3-483a-b543-57e42633ac5c | Lovable | Fullstack Engineer - AI Code Security
+- [ ] https://jobs.ashbyhq.com/lovable/d15f1a6a-dbba-41d6-b8b4-90fc00de183c | Lovable | Application Security Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/7fe39289-1f7f-47d4-8002-d3aeeaaaabc6 | Lovable | Forward Deployed Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/99f2854e-4937-4227-b96a-81269b5f871d | Lovable | Platform Engineer - Developer Experience
+- [ ] https://jobs.ashbyhq.com/lovable/920b4099-00bc-4d5e-9469-2c955ef3a662 | Lovable | Software Engineer - Infrastructure
+- [ ] https://jobs.ashbyhq.com/lovable/e5b0769c-168f-4a7b-a749-7ba8ea5e0c9e | Lovable | Design Engineer (Web & Brand)
+- [ ] https://jobs.ashbyhq.com/lovable/69c3e92a-1bff-498b-9cda-a78e267030ad | Lovable | Analytics Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/bfe339cb-96e2-4d87-a7d7-235e66485d2c | Lovable | Financial Systems Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/1f86955c-2748-4cd6-bd69-7e5c2c3fe465 | Lovable | Fullstack Engineer - Product Security
+- [ ] https://jobs.ashbyhq.com/lovable/581951b9-537e-49d5-89fb-dd74cdf3256c | Lovable | Fullstack Growth Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/aa38496f-0747-4761-bfb3-8b6127d9c81f | Lovable | Enterprise Engineer
+- [ ] https://jobs.ashbyhq.com/lovable/4a2535cc-9b62-42d4-9401-941c465ee56b | Lovable | Fullstack Engineer - Lovable Apps Platform Team
+- [ ] https://jobs.ashbyhq.com/lovable/3b6525b4-8229-4b7e-a307-a550646d0483 | Lovable | Runtime Engineer - Lovable Apps Platform Team
+
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694831005 | Glean | Application Security Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4651991005 | Glean | Founding Forward Deployed Engineer
+- [ ] https://job-boards.greenhouse.io/gleanwork/jobs/4694839005 | Glean | Software Engineer, Platform Security
+- [x] #010 | https://job-boards.greenhouse.io/gleanwork/jobs/4597765005 | Glean | Technical Support Engineer | 1.5/5 | PDF ❌
+- [x] #011 | https://job-boards.greenhouse.io/celonis/jobs/7635374003 | Celonis | Applied Value Engineer | 1.8/5 | PDF ❌
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7630970003?gh_jid=7630970003 | Celonis | Applied Value Engineer | Healthcare & Lifesciences
+- [ ] https://job-boards.greenhouse.io/celonis/jobs/7702273003?gh_jid=7702273003 | Celonis | IT Service Engineer
+
+## Procesadas
+
+- [x] #001 | https://job-boards.greenhouse.io/humeai/jobs/4948192008 | Hume AI | Front-End Engineer | 2.3/5 | PDF ❌
+- [x] #002 | https://job-boards.eu.greenhouse.io/amplemarket/jobs/4488062101 | Amplemarket | Frontend Software Engineer | 2.8/5 | PDF ❌
+- [x] #003 | https://job-boards.eu.greenhouse.io/amplemarket/jobs/4066973101 | Amplemarket | Fullstack Software Engineer | 2.1/5 | PDF ❌
+- [x] #004 | https://job-boards.greenhouse.io/hightouch/jobs/4620430004 | Hightouch | Full Stack Product Engineer | 1.8/5 | PDF ❌
+- [x] #005 | https://job-boards.greenhouse.io/hightouch/jobs/5734303004 | Hightouch | Web Engineer | 1.7/5 | PDF ❌

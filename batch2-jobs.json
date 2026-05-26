@@ -1,0 +1,16 @@
+{
+  "urls": [
+    "https://www.naukri.com/job-listings-custom-software-engineer-accenture-solutions-pvt-ltd-hyderabad-2-to-5-years-200526940494",
+    "https://www.naukri.com/job-listings-frontend-developer-innominds-software-bengaluru-2-to-4-years-190526020688",
+    "https://www.naukri.com/job-listings-front-end-developer-resolve-business-services-bengaluru-2-to-6-years-180526505783",
+    "https://www.naukri.com/job-listings-frontend-developer-probo-bengaluru-1-to-5-years-220526919336",
+    "https://www.naukri.com/job-listings-front-end-ui-developer-cgi-information-systems-and-management-consultants-bengaluru-1-to-6-years-210526501537"
+  ],
+  "jdPaths": [
+    "/Users/varun/Downloads/career-ops-main/jds/naukri-software-engineer.txt",
+    "/Users/varun/Downloads/career-ops-main/jds/naukri-developer-innominds.txt",
+    "/Users/varun/Downloads/career-ops-main/jds/naukri-end-developer.txt",
+    "/Users/varun/Downloads/career-ops-main/jds/naukri-developer-probo.txt",
+    "/Users/varun/Downloads/career-ops-main/jds/naukri-end-ui.txt"
+  ]
+}
